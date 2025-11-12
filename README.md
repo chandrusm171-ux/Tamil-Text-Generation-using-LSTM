@@ -77,7 +77,7 @@ After training, the notebook will:
 
 ```
 .
-├── f7087043-6d3b-4e2f-b665-44bc2e89397d.ipynb   # Main notebook
+├── Tamil Text Generation using LSTM.ipynb   # Main notebook
 ├── tamil_movie_scripts.txt                      # Tamil text dataset
 └── README.md                                    # Project documentation
 ```
@@ -98,12 +98,6 @@ After training, the notebook will:
 - Build a web app using **Streamlit** or **Gradio** for interactive Tamil text generation.  
 - Integrate **beam search** or **temperature sampling** for better text diversity.  
 - Add support for **multilingual text generation**.  
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — you’re free to use, modify, and share it with attribution.
 
 ---
 
